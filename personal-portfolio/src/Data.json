@@ -1,0 +1,143 @@
+
+
+{
+  "projects" : 
+  {
+  "firstTab" : [
+    {
+      "title": "Client Messaging Application",
+      "description": "Connecting people via technology",
+      "imgUrl": "messaging-application.png"
+    },
+    {
+        "title": "Admin Dashboard",
+        "description": "excellent user experience with theme switcher",
+        "imgUrl": "admin-dashboard.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "project-img3.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "project-img1.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "project-img2.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "project-img3.png"
+    }
+  ],
+  "secondTab" : [
+    {
+      "title": "Client Messaging Application",
+      "description": "Connecting people via technology",
+      "imgUrl": "messaging-application.png"
+    },
+    {
+        "title": "Admin Dashboard",
+        "description": "excellent user experience with theme switcher",
+        "imgUrl": "admin-dashboard.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "messaging-application.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "messaging-application.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "project-img2.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "project-img3.png"
+    }
+  ], 
+  "thirdTab" : [
+    {
+      "title": "Client Messaging Application",
+      "description": "Connecting people via technology",
+      "imgUrl": "admin-dashboard.png"
+    },
+    {
+        "title": "Admin Dashboard",
+        "description": "excellent user experience with theme switcher",
+        "imgUrl": "admin-dashboard.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "messaging-application.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "messaging-application.png"
+    },
+    {
+      "title": "Business Startup",
+      "description": "Design & Development",
+      "imgUrl": "project-img2.png"
+    },
+    {
+        "title": "Business Startup",
+        "description": "Design & Development",
+        "imgUrl": "project-img3.png"
+    }
+  ],
+  "skills" : [
+    {
+      "title": "UI Development",
+      "description": "Connecting people via technology"
+    },
+    {
+        "title": "ReactJS",
+        "description": "excellent user experience with theme switcher"
+    },
+    {
+      "title": "Angular",
+      "description": "Design & Development"
+    },
+    {
+        "title": "HTML5",
+        "description": "Design & Development"
+    },
+    {
+      "title": "CSS & SCSS",
+      "description": "Design & Development"
+    },
+    {
+        "title": "Javacript",
+        "description": "Design & Development"
+    },
+    {
+        "title": "Typecript",
+        "description": "Design & Development"
+    },
+    {
+        "title": "Jira",
+        "description": "Design & Development"
+    },
+    {
+        "title": "GitHub",
+        "description": "Design & Development"
+    }
+  ]
+  }}
+
+  
+
