@@ -1,7 +1,10 @@
 # personal-portfolio
 
 Personal Portfolio built on React
+
 Technology used: react-multi-carousel, react-maichimp-subscribe, Animate.css
+
+Project is deployed on verceL, here is the URL to the project :  https://personal-portfolio-umber.vercel.app
 
 Landing page : 
 
