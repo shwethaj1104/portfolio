@@ -6,6 +6,8 @@ import meter1 from '../assets/img/meter1.svg';
 import meter2 from '../assets/img/meter2.svg';
 import meter3 from '../assets/img/meter3.svg';
 import colorSharp from '../assets/img/color-sharp.png';
+import DATA from '../Data.json'
+
 
 
 export const Skills = () => {
@@ -35,24 +37,16 @@ export const Skills = () => {
           <Col>
           <div className="skill-bx">
             <h2>Skills</h2>
-            <p>loremmmmmmmm.<br></br>gdfshdbfsdbf.....</p>
+            <p>Front end Developer</p>
             <Carousel className="skill-slider" responsive={responsive} infinite={true}>
-              <div className="item">
-                <img src={meter1} alt="Image" />
-                <h5>Web Development</h5>
-              </div>
-              <div className="item">
-                <img src={meter2} alt="Image" />
-                <h5>Brand Identity</h5>
-              </div>
-              <div className="item">
-                <img src={meter3} alt="Image" />
-                <h5>Logo Design</h5>
-              </div>
-              <div className="item">
-                <img src={meter1} alt="Image" />
-                <h5>Web Development</h5>
-              </div>
+            {DATA.projects.skills.map((project, index) => {
+                      return (
+                        <div key={index} className="item">
+                        <img src={meter1} alt="Image" />
+                        <h5>{project.title}</h5>
+                      </div>
+                      )
+                    })}
             </Carousel>
           </div></Col>
         </Row>
