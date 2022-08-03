@@ -11,7 +11,7 @@
     },
     {
         "title": "Admin Dashboard",
-        "description": "excellent user experience with theme switcher",
+        "description": "Excellent user experience with theme switcher",
         "imgUrl": "admin-dashboard.png"
     },
     {
@@ -20,9 +20,9 @@
       "imgUrl": "tours.PNG"
     },
     {
-        "title": "Reviews Application",
-        "description": "Read Reviews provided by customers",
-        "imgUrl": "reviews.png"
+        "title": "Birthday reminder",
+        "description": "Don't forget birthday's of your loved one's",
+        "imgUrl": "birthday-reminder.png"
     },
     {
       "title": "Business Startup",
