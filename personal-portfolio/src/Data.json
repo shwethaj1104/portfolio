@@ -25,14 +25,14 @@
         "imgUrl": "birthday-reminder.png"
     },
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "project-img2.png"
+      "title": "Reviews Application",
+      "description": "Read Reviews provided by customers",
+      "imgUrl": "reviews.png"
     },
     {
-        "title": "Business Startup",
-        "description": "Design & Development",
-        "imgUrl": "project-img3.png"
+        "title": "Q & A Accordian",
+        "description": "Know better about Login setup",
+        "imgUrl": "QnA_accordian.png"
     }
   ],
   "secondTab" : [
