@@ -37,9 +37,9 @@
   ],
   "secondTab" : [
     {
-      "title": "Client Messaging Application",
-      "description": "Connecting people via technology",
-      "imgUrl": "messaging-application.png"
+      "title": "Menu Card",
+      "description": "Check out varity menu's with us",
+      "imgUrl": "Menu.png"
     },
     {
         "title": "Admin Dashboard",
