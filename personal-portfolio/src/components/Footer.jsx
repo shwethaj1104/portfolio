@@ -16,9 +16,13 @@ export const Footer = () => {
                 </Col>
                 <Col sm={6} className="text-center text-sm-end">
                     <div className="social-icon">
-                        <a href=""><img src={navIcon1} /></a>
+                        {/* <a href=""><img src={navIcon1} /></a>
                         <a href=""><img src={navIcon2} /></a>
-                        <a href=""><img src={navIcon3} /></a>
+                        <a href=""><img src={navIcon3} /></a> */}
+                        <a href='https://www.linkedin.com/in/shwetha-j-b26883159/' target={'_blank'}><img src={navIcon1} alt=''/></a>
+                        <a className='git' href='https://github.com/shwethaj1104/' target={'_blank'}>
+                        <span>Git</span>
+                        </a>
                     </div>
                     <p>CopyRight 2022. All Right Reserved</p>   
                 </Col>
