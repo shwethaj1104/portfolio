@@ -7,96 +7,132 @@
     {
       "title": "Client Messaging Application",
       "description": "Connecting people via technology",
-      "imgUrl": "messaging-application.png"
+      "imgUrl": "messaging-application.png",
+      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Admin Dashboard",
         "description": "Excellent user experience with theme switcher",
-        "imgUrl": "admin-dashboard.png"
+        "imgUrl": "admin-dashboard.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Trip Guider",
       "description": "Plan your vacation on soul soothing trips",
-      "imgUrl": "tours.PNG"
+      "imgUrl": "tours.PNG",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Birthday reminder",
         "description": "Don't forget birthday's of your loved one's",
-        "imgUrl": "birthday-reminder.png"
+        "imgUrl": "birthday-reminder.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Reviews Application",
       "description": "Read Reviews provided by customers",
-      "imgUrl": "reviews.png"
+      "imgUrl": "reviews.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Q & A Accordian",
         "description": "Know better about Login setup",
-        "imgUrl": "QnA_accordian.png"
+        "imgUrl": "QnA_accordian.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     }
   ],
   "secondTab" : [
     {
       "title": "Reviews",
       "description": "Check out our trusted customer",
-      "imgUrl": "Menu.png"
+      "imgUrl": "Menu.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Experiance Card",
         "description": "Check out our trusted customer reviews",
-        "imgUrl": "reviewSlider.png"
+        "imgUrl": "reviewSlider.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Business Startup",
       "description": "Design & Development",
-      "imgUrl": "messaging-application.png"
+      "imgUrl": "messaging-application.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Business Startup",
         "description": "Design & Development",
-        "imgUrl": "messaging-application.png"
+        "imgUrl": "messaging-application.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Business Startup",
       "description": "Design & Development",
-      "imgUrl": "project-img2.png"
+      "imgUrl": "project-img2.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Business Startup",
         "description": "Design & Development",
-        "imgUrl": "project-img3.png"
+        "imgUrl": "project-img3.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     }
   ], 
   "thirdTab" : [
     {
       "title": "Client Messaging Application",
       "description": "Connecting people via technology",
-      "imgUrl": "admin-dashboard.png"
+      "imgUrl": "admin-dashboard.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Admin Dashboard",
         "description": "excellent user experience with theme switcher",
-        "imgUrl": "admin-dashboard.png"
+        "imgUrl": "admin-dashboard.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Business Startup",
       "description": "Design & Development",
-      "imgUrl": "messaging-application.png"
+      "imgUrl": "messaging-application.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Business Startup",
         "description": "Design & Development",
-        "imgUrl": "messaging-application.png"
+        "imgUrl": "messaging-application.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
       "title": "Business Startup",
       "description": "Design & Development",
-      "imgUrl": "project-img2.png"
+      "imgUrl": "project-img2.png",
+      "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Business Startup",
         "description": "Design & Development",
-        "imgUrl": "project-img3.png"
+        "imgUrl": "project-img3.png",
+        "gitUrl":"",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     }
   ],
   "skills" : [
