@@ -37,14 +37,14 @@
   ],
   "secondTab" : [
     {
-      "title": "Menu Card",
-      "description": "Check out varity menu's with us",
+      "title": "Reviews",
+      "description": "Check out our trusted customer",
       "imgUrl": "Menu.png"
     },
     {
         "title": "Experiance Card",
-        "description": "Checkout the experience",
-        "imgUrl": "experience.png"
+        "description": "Check out our trusted customer reviews",
+        "imgUrl": "reviewSlider.png"
     },
     {
       "title": "Business Startup",
