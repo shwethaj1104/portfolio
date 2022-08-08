@@ -642,3 +642,29 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   align-items: center; */
   /* place-items: center; */
 }
+
+
+.code, .demo{
+  color: white;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    background: #833396;
+    border-radius: 0.7rem;
+}
+
+.project-btn{
+  display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
+@media (max-width:575px){
+  .code, .demo{
+    padding: 0.5rem 3rem 0.5rem 3rem;
+}
+}
+
+@media (max-width:990px) {
+  .code, .demo{
+      padding: 0.5rem 1rem 0.5rem 1rem;
+  }
+}
