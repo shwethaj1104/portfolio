@@ -48,13 +48,13 @@ export const Banner = () => {
                     <Row className="align-items-center">
                         <Col xs={12} md={6} xl={7}>
                             <TrackVisibility>
-                            {({isVisible}) =>
-                                <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                                    <span className="tagline">Welcome to my Portofolio</span>
-                                    <h1>{`Hi I am Shwetha  `}<br></br><span className="wrap">{text}</span></h1>
-                                    <p>Software Engineer I</p>
-                                    <button onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /> </button>
-                                </div>}
+                                {({ isVisible }) =>
+                                    <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+                                        <button className="tagline">Take a Look at my Resume</button>
+                                        <h1>{`Hi I am Shwetha  `}<br></br><span className="wrap">{text}</span></h1>
+                                        <p>Software Engineer I</p>
+                                        {/* <button onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /> </button> */}
+                                    </div>}
                             </TrackVisibility>
                         </Col>
                         <Col xs={12} md={6} xl={5}>

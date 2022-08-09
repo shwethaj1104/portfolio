@@ -3,6 +3,8 @@ import { Col, Container,Row } from "react-bootstrap";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import meter1 from '../assets/img/meter1.svg';
+import meter3 from '../assets/img/meter3.svg';
+import meter2 from '../assets/img/meter2.svg';
 import colorSharp from '../assets/img/color-sharp.png';
 import DATA from '../Data.json'
 
@@ -39,7 +41,7 @@ export const Skills = () => {
             {DATA.projects.skills.map((project, index) => {
                       return (
                         <div key={index} className="item">
-                        <img src={meter1} alt="Image" />
+                        <img src={meter3} alt="Image" />
                         <h5>{project.title}</h5>
                       </div>
                       )
