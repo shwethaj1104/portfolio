@@ -8,73 +8,74 @@
       "title": "Client Messaging Application",
       "description": "Connecting people via technology",
       "imgUrl": "messaging-application.png",
-      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "gitUrl":"https://github.com/shwethaj1104/react-client-messaging-app",
+      "demoUrl":"https://client-eight-lake.vercel.app/"
     },
+
     {
         "title": "Admin Dashboard",
         "description": "Excellent user experience with theme switcher",
         "imgUrl": "admin-dashboard.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "gitUrl":"https://github.com/shwethaj1104/react-admin-dashboard",
+      "demoUrl":"https://react-admin-omega-blush.vercel.app/"
     },
     {
       "title": "Trip Guider",
       "description": "Plan your vacation on soul soothing trips",
       "imgUrl": "tours.PNG",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "gitUrl":"https://github.com/shwethaj1104/tours",
+      "demoUrl":"https://tours-swart.vercel.app/"
     },
     {
         "title": "Birthday reminder",
         "description": "Don't forget birthday's of your loved one's",
         "imgUrl": "birthday-reminder.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "gitUrl":"https://github.com/shwethaj1104/birthday-reminder",
+      "demoUrl":"https://birthday-reminder-five.vercel.app/"
     },
     {
       "title": "Reviews Application",
       "description": "Read Reviews provided by customers",
       "imgUrl": "reviews.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "gitUrl":"https://github.com/shwethaj1104/reviews",
+      "demoUrl":"https://reviews-ashy.vercel.app/"
     },
     {
         "title": "Q & A Accordian",
         "description": "Know better about Login setup",
         "imgUrl": "QnA_accordian.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "gitUrl":"https://github.com/shwethaj1104/accordian",
+      "demoUrl":"https://accordian-psi.vercel.app/"
     }
   ],
   "secondTab" : [
     {
       "title": "Reviews",
       "description": "Check out our trusted customer",
-      "imgUrl": "Menu.png",
-      "gitUrl":"",
+      "imgUrl": "reviewSlider.png",
+      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
       "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
         "title": "Experiance Card",
         "description": "Check out our trusted customer reviews",
-        "imgUrl": "reviewSlider.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "imgUrl": "experience.png",
+        "gitUrl":"https://github.com/shwethaj1104/my-experience",
+      "demoUrl":"https://my-experience.vercel.app/"
     },
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "messaging-application.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "title": "Genearte Random Text",
+      "description": "Lorem ipsum",
+      "imgUrl": "generate-text.png",
+      "gitUrl":"https://github.com/shwethaj1104/generate-text",
+      "demoUrl":"https://generate-text.vercel.app/"
     },
     {
-        "title": "Business Startup",
-        "description": "Design & Development",
-        "imgUrl": "messaging-application.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "title": "Menu Card",
+      "description": "Check out varity menu's with us",
+      "imgUrl": "Menu.png",
+      "gitUrl":"https://github.com/shwethaj1104/menu",
+      "demoUrl":"https://menu-rouge.vercel.app/"
     },
     {
       "title": "Business Startup",
