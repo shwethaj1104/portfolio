@@ -625,6 +625,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
+.social-icon a{
+  text-decoration: none;
+}
 .social-icon a span {
   font-size: 1.2rem;
 	z-index: 1;
