@@ -22,13 +22,13 @@ export const Projects = () => {
             <Tab.Container id="projects-tabs" defaultActiveKey="first">
               <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills=tab">
                 <Nav.Item>
-                  <Nav.Link eventKey="first">Tab one</Nav.Link>
+                  <Nav.Link eventKey="first">Major Projects</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="second"> Tab two</Nav.Link>
+                  <Nav.Link eventKey="second">Minor Projects</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="third">Tab three</Nav.Link>
+                  <Nav.Link eventKey="third">Minor Projects</Nav.Link>
                 </Nav.Item>
               </Nav>
               <Tab.Content>
