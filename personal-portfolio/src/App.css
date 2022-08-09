@@ -104,9 +104,9 @@ nav.navbar a.navbar-brand {
   display: flex !important;
     flex-direction: row !important;
 }
-#basic-navbar-nav{
+/* #basic-navbar-nav{
   display: flex !important
-}
+} */
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
   color: #fff !important;
