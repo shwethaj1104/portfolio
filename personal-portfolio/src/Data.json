@@ -63,9 +63,9 @@
       "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "messaging-application.png",
+      "title": "Genearte Random Text",
+      "description": "Lorem ipsum",
+      "imgUrl": "generate-text.png",
       "gitUrl":"",
       "demoUrl":"https://reviews-slider-opal.vercel.app/"
     },
