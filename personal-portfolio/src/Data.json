@@ -79,11 +79,11 @@
     },
     
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "project-img2.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "title": "Color Generator",
+      "description": "Generate a color of your wish",
+      "imgUrl": "color_generator.png",
+      "gitUrl":"https://github.com/shwethaj1104/color-generator",
+      "demoUrl":"https://color-generator-amber.vercel.app/"
     },
     {
         "title": "Business Startup",
