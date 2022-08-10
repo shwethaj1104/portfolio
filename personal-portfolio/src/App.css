@@ -244,7 +244,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 185px 0 100px 0;
-  background-image: url('./assets/img/banner-bg.png');
+  /* background-image: url('./assets/img/banner-bg.png'); */
+  background: linear-gradient(90.21deg, #362162 -5.91%, #aa367c30 111.58%);
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -677,4 +678,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .code, .demo{
       padding: 0.5rem 1rem 0.5rem 1rem;
   }
+}
+.align-items-center{
+  align-items: center!important;
+  justify-content: center !important;
+}
+.text-sm-end{
+  text-align: right!important;
+    display: contents !important;
 }
