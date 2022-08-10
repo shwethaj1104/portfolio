@@ -4,6 +4,8 @@ import { ArrowRightCircle } from "react-bootstrap-icons"
 import headerImg from '../assets/img/header-img.svg'
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+// import resume from '../assets/img/rr.pdf'
+
 
 export const Banner = () => {
 
@@ -50,7 +52,9 @@ export const Banner = () => {
                             <TrackVisibility>
                                 {({ isVisible }) =>
                                     <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                                        <button className="tagline">Take a Look at my Resume</button>
+                                        <button className="tagline">
+                                        <a href="" download="" className="resume_tag">Take a look at my Resume</a>
+                                           </button>
                                         <h1>{`Hi I am Shwetha  `}<br></br><span className="wrap">{text}</span></h1>
                                         <p>Software Engineer I</p>
                                         {/* <button onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /> </button> */}
