@@ -259,6 +259,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 20px;
   margin-bottom: 16px;
   display: inline-block;
+  border-radius:1rem
 }
 .banner h1 {
   font-size: 65px;
@@ -686,4 +687,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .text-sm-end{
   text-align: right!important;
     display: contents !important;
+}
+.resume_tag{
+  color:white;
+  text-decoration: none;
+}
+.resume_tag:hover{
+  color: #ebb2ae80;
 }
