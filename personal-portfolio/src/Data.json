@@ -86,11 +86,11 @@
       "demoUrl":"https://color-generator-amber.vercel.app/"
     },
     {
-        "title": "Business Startup",
-        "description": "Design & Development",
-        "imgUrl": "project-img3.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "title": "Shopping cart",
+        "description": "Add items to your shopping cart",
+        "imgUrl": "grocery_bucket.png",
+        "gitUrl":"https://github.com/shwethaj1104/grocery-bucket",
+      "demoUrl":"https://grocery-bucket.vercel.app/"
     }
   ], 
   "thirdTab" : [
