@@ -95,11 +95,11 @@
   ], 
   "thirdTab" : [
     {
-      "title": "Client Messaging Application",
-      "description": "Connecting people via technology",
-      "imgUrl": "admin-dashboard.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "title": "Navigation",
+      "description": "Simple Navigation bar",
+      "imgUrl": "nav-bar.png",
+      "gitUrl":"https://github.com/shwethaj1104/navigation-bar",
+      "demoUrl":"https://navigation-bar-zeta.vercel.app/"
     },
     {
         "title": "Admin Dashboard",
