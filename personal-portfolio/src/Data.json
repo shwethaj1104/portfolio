@@ -102,11 +102,11 @@
       "demoUrl":"https://navigation-bar-zeta.vercel.app/"
     },
     {
-        "title": "Admin Dashboard",
-        "description": "excellent user experience with theme switcher",
-        "imgUrl": "admin-dashboard.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "title": "SideBar Navigation",
+        "description": "Simple side navigation bar",
+        "imgUrl": "side-bar.png",
+        "gitUrl":"https://github.com/shwethaj1104/side-bar",
+      "demoUrl":"https://side-bar-rust.vercel.app/"
     },
     {
       "title": "Business Startup",
