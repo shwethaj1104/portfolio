@@ -109,11 +109,11 @@
       "demoUrl":"https://side-bar-rust.vercel.app/"
     },
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "messaging-application.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+      "title": "Side Navigation bar",
+      "description": "Navigation bar based on the view of screen",
+      "imgUrl": "stripe-submenu.png",
+      "gitUrl":"https://github.com/shwethaj1104/sub-menu",
+      "demoUrl":"https://sub-menu.vercel.app/"
     },
     {
         "title": "Business Startup",
