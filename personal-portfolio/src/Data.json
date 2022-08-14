@@ -38,15 +38,14 @@
       "gitUrl":"https://github.com/shwethaj1104/tours",
       "demoUrl":"https://tours-swart.vercel.app/"
     },
-    
-    
     {
-        "title": "Q & A Accordian",
-        "description": "Know better about Login setup",
-        "imgUrl": "QnA_accordian.png",
-        "gitUrl":"https://github.com/shwethaj1104/accordian",
-      "demoUrl":"https://accordian-psi.vercel.app/"
+      "title": "Side Navigation bar",
+      "description": "Navigation bar based on the view of screen",
+      "imgUrl": "stripe-submenu.png",
+      "gitUrl":"https://github.com/shwethaj1104/sub-menu",
+      "demoUrl":"https://sub-menu.vercel.app/"
     }
+
   ],
   "secondTab" : [
     {
@@ -107,14 +106,14 @@
         "imgUrl": "side-bar.png",
         "gitUrl":"https://github.com/shwethaj1104/side-bar",
       "demoUrl":"https://side-bar-rust.vercel.app/"
-    },
+    },  
     {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "messaging-application.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
-    },
+      "title": "Q & A Accordian",
+      "description": "Know better about Login setup",
+      "imgUrl": "QnA_accordian.png",
+      "gitUrl":"https://github.com/shwethaj1104/accordian",
+    "demoUrl":"https://accordian-psi.vercel.app/"
+  },
     {
         "title": "Business Startup",
         "description": "Design & Development",
