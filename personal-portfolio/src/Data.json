@@ -115,11 +115,11 @@
     "demoUrl":"https://accordian-psi.vercel.app/"
   },
     {
-        "title": "Business Startup",
-        "description": "Design & Development",
-        "imgUrl": "messaging-application.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
+        "title": "Shopping Cart",
+        "description": "Check items you have added to your shopping cart",
+        "imgUrl": "shopping_cart.png",
+        "gitUrl":"https://github.com/shwethaj1104/shopping-cart",
+      "demoUrl":"https://shopping-cart-ruby-delta.vercel.app/"
     },
     {
       "title": "Business Startup",
