@@ -42,7 +42,7 @@
     {
       "title": "Reviews",
       "description": "Check out our trusted customer reviews",
-      "imgUrl": "reviews-new.png",
+      "imgUrl": "reviews-new.PNG",
       "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
       "demoUrl":"https://reviews-slider-opal.vercel.app/"
     }
