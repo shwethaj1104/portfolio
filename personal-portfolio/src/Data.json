@@ -59,14 +59,14 @@
     {
       "title": "Birthday reminder",
       "description": "Don't forget birthday's of your loved one's",
-      "imgUrl": "birthday-new.png",
+      "imgUrl": "birthday-new.PNG",
       "gitUrl":"https://github.com/shwethaj1104/birthday-reminder",
     "demoUrl":"https://birthday-reminder-five.vercel.app/"
   },
     {
         "title": "Experiance Card",
         "description": "Check out our trusted customer reviews",
-        "imgUrl": "experience-new.png",
+        "imgUrl": "experience-new.PNG",
         "gitUrl":"https://github.com/shwethaj1104/my-experience",
       "demoUrl":"https://my-experience.vercel.app/"
     },
