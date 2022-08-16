@@ -17,33 +17,34 @@
         "gitUrl":"https://github.com/shwethaj1104/react-admin-dashboard",
       "demoUrl":"https://react-admin-omega-blush.vercel.app/"
     },
-    {
-      "title": "Reviews",
-      "description": "Check out our trusted customer",
-      "imgUrl": "reviewSlider.png",
-      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
-    },
-    {
-      "title": "Menu Card",
-      "description": "Check out varity menu's with us",
-      "imgUrl": "Menu.png",
-      "gitUrl":"https://github.com/shwethaj1104/menu",
-      "demoUrl":"https://menu-rouge.vercel.app/"
-    },
-    {
-      "title": "Trip Guider",
-      "description": "Plan your vacation on soul soothing trips",
-      "imgUrl": "tours.PNG",
-      "gitUrl":"https://github.com/shwethaj1104/tours",
-      "demoUrl":"https://tours-swart.vercel.app/"
-    },
+    
     {
       "title": "Side Navigation bar",
       "description": "Navigation bar based on the view of screen",
       "imgUrl": "stripe-submenu.png",
       "gitUrl":"https://github.com/shwethaj1104/sub-menu",
       "demoUrl":"https://sub-menu.vercel.app/"
+    },
+    {
+      "title": "Shopping Cart",
+      "description": "Check items you have added to your shopping cart",
+      "imgUrl": "shopping_cart.png",
+      "gitUrl":"https://github.com/shwethaj1104/shopping-cart",
+      "demoUrl":"https://shopping-cart-ruby-delta.vercel.app/"
+    },
+    {
+      "title": "Coctails View Application",
+      "description": "View details of all available cocktails",
+      "imgUrl": "cocktails.png",
+      "gitUrl":"https://github.com/shwethaj1104/cocktails",
+      "demoUrl":"https://cocktails-sigma.vercel.app/"
+    },
+    {
+      "title": "Reviews",
+      "description": "Check out our trusted customer reviews",
+      "imgUrl": "reviews-new.png",
+      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
+      "demoUrl":"https://reviews-slider-opal.vercel.app/"
     }
 
   ],
@@ -58,14 +59,14 @@
     {
       "title": "Birthday reminder",
       "description": "Don't forget birthday's of your loved one's",
-      "imgUrl": "birthday-reminder.png",
+      "imgUrl": "birthday-new.png",
       "gitUrl":"https://github.com/shwethaj1104/birthday-reminder",
     "demoUrl":"https://birthday-reminder-five.vercel.app/"
   },
     {
         "title": "Experiance Card",
         "description": "Check out our trusted customer reviews",
-        "imgUrl": "experience.png",
+        "imgUrl": "experience-new.png",
         "gitUrl":"https://github.com/shwethaj1104/my-experience",
       "demoUrl":"https://my-experience.vercel.app/"
     },
@@ -94,6 +95,27 @@
   ], 
   "thirdTab" : [
     {
+      "title": "Q & A Accordian",
+      "description": "Know better about Login setup",
+      "imgUrl": "QnA_accordian.png",
+      "gitUrl":"https://github.com/shwethaj1104/accordian",
+      "demoUrl":"https://accordian-psi.vercel.app/"
+    },
+    {
+      "title": "Menu Card",
+      "description": "Check out varity menu's with us",
+      "imgUrl": "Menu.png",
+      "gitUrl":"https://github.com/shwethaj1104/menu",
+      "demoUrl":"https://menu-rouge.vercel.app/"
+    },
+    {
+      "title": "Trip Guider",
+      "description": "Plan your vacation on soul soothing trips",
+      "imgUrl": "tours.PNG",
+      "gitUrl":"https://github.com/shwethaj1104/tours",
+      "demoUrl":"https://tours-swart.vercel.app/"
+    },
+    {
       "title": "Navigation",
       "description": "Simple Navigation bar",
       "imgUrl": "nav-bar.png",
@@ -106,35 +128,7 @@
         "imgUrl": "side-bar.png",
         "gitUrl":"https://github.com/shwethaj1104/side-bar",
       "demoUrl":"https://side-bar-rust.vercel.app/"
-    },  
-    {
-      "title": "Q & A Accordian",
-      "description": "Know better about Login setup",
-      "imgUrl": "QnA_accordian.png",
-      "gitUrl":"https://github.com/shwethaj1104/accordian",
-    "demoUrl":"https://accordian-psi.vercel.app/"
-  },
-    {
-        "title": "Shopping Cart",
-        "description": "Check items you have added to your shopping cart",
-        "imgUrl": "shopping_cart.png",
-        "gitUrl":"https://github.com/shwethaj1104/shopping-cart",
-      "demoUrl":"https://shopping-cart-ruby-delta.vercel.app/"
-    },
-    {
-      "title": "Business Startup",
-      "description": "Design & Development",
-      "imgUrl": "project-img2.png",
-      "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
-    },
-    {
-        "title": "Business Startup",
-        "description": "Design & Development",
-        "imgUrl": "project-img3.png",
-        "gitUrl":"",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
-    }
+    }  
   ],
   "skills" : [
     {
