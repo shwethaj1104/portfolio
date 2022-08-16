@@ -132,10 +132,6 @@
   ],
   "skills" : [
     {
-      "title": "UI Development",
-      "description": "Connecting people via technology"
-    },
-    {
         "title": "ReactJS",
         "description": "excellent user experience with theme switcher"
     },
@@ -144,20 +140,24 @@
       "description": "Design & Development"
     },
     {
-        "title": "HTML5",
-        "description": "Design & Development"
-    },
-    {
-      "title": "CSS & SCSS",
-      "description": "Design & Development"
-    },
-    {
         "title": "Javacript",
         "description": "Design & Development"
     },
     {
+        "title": "HTML5",
+        "description": "Design & Development"
+    },
+    {
+      "title": "CSS",
+      "description": "Design & Development"
+    },
+    {
         "title": "Typecript",
         "description": "Design & Development"
+    },
+    {
+      "title": "Accesibility and performance analysis",
+      "description": "Design & Development"
     },
     {
         "title": "Jira",
