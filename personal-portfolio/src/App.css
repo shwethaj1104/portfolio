@@ -427,7 +427,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx {
   position: relative;
-  border-radius: 30px;
+  border-radius: 1rem;
   overflow: hidden;
   margin-bottom: 24px;
 }
@@ -660,7 +660,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: white;
     padding: 0.5rem 2rem 0.5rem 2rem;
     background: #833396;
-    border-radius: 0.7rem;
+    border-radius: 0.5rem;
 }
 
 .project-btn{
