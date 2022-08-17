@@ -133,38 +133,52 @@
   "skills" : [
     {
         "title": "ReactJS",
+        "imgUrl": "meter2.svg",
         "description": "excellent user experience with theme switcher"
     },
     {
       "title": "Angular",
+      "imgUrl": "meter3.svg",
       "description": "Design & Development"
     },
     {
         "title": "Javacript",
+        "imgUrl": "meter2.svg",
         "description": "Design & Development"
     },
     {
         "title": "HTML5",
+        "imgUrl": "meter1.svg",
         "description": "Design & Development"
     },
     {
       "title": "CSS",
+      "imgUrl": "meter1.svg",
+      "description": "Design & Development"
+    },
+    {
+      "title": "Accesibility and performance analysis",
+      "imgUrl": "meter3.svg",
+      "description": "Design & Development"
+    },
+    {
+      "title": "Security",
+      "imgUrl": "meter3.svg",
       "description": "Design & Development"
     },
     {
         "title": "Typecript",
+        "imgUrl": "meter1.svg",
         "description": "Design & Development"
     },
     {
-      "title": "Accesibility and performance analysis",
-      "description": "Design & Development"
-    },
-    {
         "title": "Jira",
+        "imgUrl": "meter1.svg",
         "description": "Design & Development"
     },
     {
         "title": "GitHub",
+        "imgUrl": "meter1.svg",
         "description": "Design & Development"
     }
   ]

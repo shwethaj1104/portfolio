@@ -41,7 +41,7 @@ export const Skills = () => {
             {DATA.projects.skills.map((project, index) => {
                       return (
                         <div key={index} className="item">
-                        <img src={meter3} alt="Image" />
+                        <img  src={`/assets/img/${project.imgUrl}`} alt="Image" />
                         <h5>{project.title}</h5>
                       </div>
                       )
