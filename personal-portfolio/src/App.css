@@ -494,7 +494,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .contact h2 {
 	font-size: 45px;
 	font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 1rem;
 }
 .contact form input, .contact form textarea {
   width: 200%;
@@ -503,7 +503,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 20px;
   color: #fff;
   margin: 0 0 0.5rem 0;
-  padding: 1rem;
+  padding: 0.8rem;
   font-weight: 500;
   font-size: 18px;
   letter-spacing: 0.8px;
@@ -528,7 +528,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-color: #fff;
   padding: 14px 48px;
   font-size: 18px;
-  margin-top: 25px;
+  margin-top: 0.5rem;
   border-radius: 0;
   position: relative;
   transition: 0.3s ease-in-out;
