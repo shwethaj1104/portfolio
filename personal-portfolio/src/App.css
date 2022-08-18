@@ -486,7 +486,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .contact {
   background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
-  padding: 60px 0 200px 0;
+  padding: 3rem 0 5rem 0;
 }
 .contact img {
   width: 92%;
@@ -497,13 +497,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 30px;
 }
 .contact form input, .contact form textarea {
-  width: 100%;
+  width: 200%;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 20px;
   color: #fff;
-  margin: 0 0 8px 0;
-  padding: 18px 26px;
+  margin: 0 0 0.5rem 0;
+  padding: 1rem;
   font-weight: 500;
   font-size: 18px;
   letter-spacing: 0.8px;
