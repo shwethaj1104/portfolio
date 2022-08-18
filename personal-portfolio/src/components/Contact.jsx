@@ -8,17 +8,26 @@ export const Contact = () => {
     const form = useRef();
 
     const sendEmail = (e) => {
-        setButtonText('Sending...')
-      e.preventDefault();
+        e.preventDefault();
+        // console.log("form",formDetails)
+        if(formDetails.email && formDetails.message){
+          setButtonText('Sending...')
+          emailjs.sendForm('service_a3gfvee', 'template_njg1san', form.current, 'HmzkIsNtHj0JIc_53')
+            .then((result) => {
+                console.log(result.text);
+                setFormDetails(formInitialDetails)
+                setButtonText('Send')
+            }, (error) => {
+                console.log(error.text);
+            });
+      }
+      else{
+                setStatus({success:false,message:'Email and Message is mandatory, Please fill both of them'})
+                setTimeout(() => {
+                setStatus({success:true,message:''})
+                }, 3000);
+      }
   
-      emailjs.sendForm('service_a3gfvee', 'template_njg1san', form.current, 'HmzkIsNtHj0JIc_53')
-        .then((result) => {
-            console.log(result.text);
-            setFormDetails(formInitialDetails)
-            setButtonText('Send')
-        }, (error) => {
-            console.log(error.text);
-        });
     };
     const formInitialDetails = {
         firstName: '',
