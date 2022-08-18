@@ -8,13 +8,14 @@ export const Contact = () => {
     const form = useRef();
 
     const sendEmail = (e) => {
+        setButtonText('Sending...')
       e.preventDefault();
   
       emailjs.sendForm('service_a3gfvee', 'template_njg1san', form.current, 'HmzkIsNtHj0JIc_53')
         .then((result) => {
             console.log(result.text);
-            e.target.reset()
             setFormDetails(formInitialDetails)
+            setButtonText('Send')
         }, (error) => {
             console.log(error.text);
         });
@@ -37,25 +38,25 @@ export const Contact = () => {
         })
     }
 
-    const handleSubmit = async(e)=>{
-        e.preventDefault();
-        setButtonText('Sending...')
-        let response = await fetch("http://localhost:5000/contact",{
-            method:"POST",
-            headers:{
-                "Content-Type":"Application/json;charset=utf-8",
-            },
-            body: JSON.stringify(formDetails),
-        });
-        setButtonText("Send");
-        let result = response.json();
-        setFormDetails(formInitialDetails);
-        if(result.code === 200){
-            setStatus({success:true,message:'Message Sent Successfully'})
-        }else{
-            setStatus({success:false,message:"Something went wrong, please try again later"})
-        }
-    }
+    // const handleSubmit = async(e)=>{
+    //     e.preventDefault();
+    //     setButtonText('Sending...')
+    //     let response = await fetch("http://localhost:5000/contact",{
+    //         method:"POST",
+    //         headers:{
+    //             "Content-Type":"Application/json;charset=utf-8",
+    //         },
+    //         body: JSON.stringify(formDetails),
+    //     });
+    //     setButtonText("Send");
+    //     let result = response.json();
+    //     setFormDetails(formInitialDetails);
+    //     if(result.code === 200){
+    //         setStatus({success:true,message:'Message Sent Successfully'})
+    //     }else{
+    //         setStatus({success:false,message:"Something went wrong, please try again later"})
+    //     }
+    // }
 
 
 
