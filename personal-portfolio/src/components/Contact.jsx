@@ -22,7 +22,7 @@ export const Contact = () => {
             });
       }
       else{
-                setStatus({success:false,message:'Email and Message is mandatory, Please fill both of them'})
+                setStatus({success:false,message:'! Email and Message is mandatory, Please fill both of them'})
                 setTimeout(() => {
                 setStatus({success:true,message:''})
                 }, 3000);
