@@ -6,6 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import logo from '../assets/img/logo.svg'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import navIcon2 from '../assets/img/nav-icon2.svg'
+import {BsLinkedin,BsGithub} from 'react-icons/bs'
 
 
 
@@ -48,11 +49,14 @@ export const NavBar = () => {
                     </Nav>
                     <span className='navbar-text'>
                         <div className='social-icon'>
-                            <a href='https://www.linkedin.com/in/shwetha-j-b26883159/' target={'_blank'}><img src={navIcon1} alt=''/></a>
+                            <a href='https://github.com/shwethaj1104/' target={'_blank'}><BsGithub className='svg_icons'/></a>
+                            <a href='https://www.linkedin.com/in/shwetha-j-b26883159/' target={'_blank'}><BsLinkedin className='svg_icons'/></a>
+                            {/* <a href='https://www.linkedin.com/in/shwetha-j-b26883159/' target={'_blank'}><img src={navIcon1} alt=''/></a> */}
                             {/* <a href='#'><img src={navIcon2} alt=''/></a> */}
-                            <a className='git' href='https://github.com/shwethaj1104/' target={'_blank'}>
+                            {/* <a className='git' href='https://github.com/shwethaj1104/' target={'_blank'}>
                                 <span>Git</span>
-                            </a>
+                            </a> */}
+
                         </div>
                         {/* <button className='vgvd' onClick={()=> console.log('connect')}>
                             <span>Let's Connect</span>
