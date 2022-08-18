@@ -274,7 +274,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 20px;
   /* margin-bottom: 16px; */
   display: inline-block;
-  border-radius:1rem
+  border-radius:0.5rem
 }
 .banner h1 {
   font-size: 65px;
@@ -290,6 +290,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   line-height: 1.5em;
   width: 96%;
+}
+.experience{
+  color: #ed0391;
 }
 .banner button {
   color: #fff;
