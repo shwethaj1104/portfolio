@@ -678,6 +678,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .align-items-center{
   align-items: center!important;
   justify-content: center !important;
+  display: flex;
+  flex-direction: row;
 }
 .text-sm-end{
   text-align: right!important;
@@ -689,4 +691,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .resume_tag:hover{
   color: #ebb2ae80;
+}
+.contact-row{
+  display: flex;
+  flex-direction: column !important;
 }
