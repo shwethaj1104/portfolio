@@ -9,12 +9,16 @@ export const Contact = () => {
 
     const sendEmail = (e) => {
         e.preventDefault();
-        // console.log("form",formDetails)
-        if(formDetails.email && formDetails.message){
+        if(formDetails.phone && formDetails.phone.length!==10){
+                setStatus({success:false,message:'Enter valid phone number'})
+                setTimeout(() => {
+                setStatus({success:true,message:''})
+                }, 3000);
+        }
+        else if(formDetails.email && formDetails.message){
           setButtonText('Sending...')
           emailjs.sendForm('service_a3gfvee', 'template_njg1san', form.current, 'HmzkIsNtHj0JIc_53')
             .then((result) => {
-                console.log(result.text);
                 setFormDetails(formInitialDetails)
                 setButtonText('Send')
             }, (error) => {
@@ -90,7 +94,7 @@ export const Contact = () => {
                                 <input type="email" name="email" value={formDetails.email} placeholder="Email Address" onChange={(e)=> onFormUpdate('email',e.target.value)}/>
                             </Col>
                             <Col sm={6} className="px-1">
-                                <input type="tel" name="phone" value={formDetails.phone} placeholder="Phone Number" onChange={(e)=> onFormUpdate('phone',e.target.value)}/>
+                                <input type="number" name="phone" value={formDetails.phone} placeholder="Phone Number" onChange={(e)=> onFormUpdate('phone',e.target.value)}/>
                             </Col>
                             <Col sm={6} className="px-1">
                                 <textarea name="message" value={formDetails.message} placeholder="Message" onChange={(e)=> onFormUpdate('message',e.target.value)}/>
