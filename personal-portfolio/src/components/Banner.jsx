@@ -55,8 +55,8 @@ export const Banner = () => {
                                         <h1>{`Hi I am Shwetha  `}<br></br><span className="wrap">{text}</span></h1>
                                         <p>Software Engineer I with <span className="experience">2 years & 8 months</span> of experience</p>
                                         <button className="tagline">
-                                        <a href="" download="" className="resume_tag">Download Resume</a>
-                                           </button>
+                                            <a href="" download="" className="resume_tag">Download Resume</a>
+                                        </button>
                                         {/* <button onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25} /> </button> */}
                                     </div>}
                             </TrackVisibility>
