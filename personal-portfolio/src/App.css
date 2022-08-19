@@ -119,7 +119,7 @@ span.navbar-text {
 }
 .social-icon a:hover {
   transform: scale(1.3);
-  transition: all 400ms ease;;
+  transition: all 400ms ease;
 }
 .svg_icons{
   width: auto;
@@ -226,6 +226,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 20px;
   display: inline-block;
   border-radius:0.5rem
+}
+.tagline:hover{
+  transform: scale(1.1);
+  transition: all 400ms ease;
 }
 .banner h1 {
   font-size: 65px;
@@ -662,7 +666,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   text-decoration: none;
 }
 .resume_tag:hover{
-  color: #ebb2ae80;
+  color: white;
 }
 .contact-row{
   display: flex;
