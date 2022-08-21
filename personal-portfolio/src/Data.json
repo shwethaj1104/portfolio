@@ -3,11 +3,11 @@
   {
   "firstTab" : [
     {
-      "title": "Client Messaging Application",
+      "title": "Messaging Application",
       "description": "Connecting people via technology",
-      "imgUrl": "messaging-application.png",
+      "imgUrl": "messaging-app-new.png",
       "gitUrl":"https://github.com/shwethaj1104/react-client-messaging-app",
-      "demoUrl":"https://client-eight-lake.vercel.app/"
+      "demoUrl":"https://chat-application-woad.vercel.app/"
     },
 
     {
