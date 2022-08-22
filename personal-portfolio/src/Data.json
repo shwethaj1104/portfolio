@@ -1,188 +1,181 @@
 {
-  "projects" : 
-  {
-  "firstTab" : [
-    {
-      "title": "Messaging Application",
-      "description": "Connecting people via technology",
-      "imgUrl": "messaging-app-new.png",
-      "gitUrl":"https://github.com/shwethaj1104/react-client-messaging-app",
-      "demoUrl":"https://chat-application-woad.vercel.app/"
-    },
-
-    {
+  "projects": {
+    "firstTab": [
+      {
+        "title": "Messaging Application",
+        "description": "Connecting people via technology",
+        "imgUrl": "messaging-app-new.png",
+        "gitUrl": "https://github.com/shwethaj1104/react-client-messaging-app",
+        "demoUrl": "https://chat-application-woad.vercel.app/"
+      },
+      {
         "title": "Admin Dashboard",
         "description": "Excellent user experience with theme switcher",
         "imgUrl": "admin-dashboard.png",
-        "gitUrl":"https://github.com/shwethaj1104/react-admin-dashboard",
-      "demoUrl":"https://react-admin-omega-blush.vercel.app/"
-    },
-    
-    {
-      "title": "Side Navigation bar",
-      "description": "Navigation bar based on the view of screen",
-      "imgUrl": "stripe-submenu.png",
-      "gitUrl":"https://github.com/shwethaj1104/sub-menu",
-      "demoUrl":"https://sub-menu.vercel.app/"
-    },
-    {
-      "title": "Shopping Cart",
-      "description": "Check items you have added to your shopping cart",
-      "imgUrl": "shopping_cart.png",
-      "gitUrl":"https://github.com/shwethaj1104/shopping-cart",
-      "demoUrl":"https://shopping-cart-ruby-delta.vercel.app/"
-    },
-    {
-      "title": "Coctails View Application",
-      "description": "View details of all available cocktails",
-      "imgUrl": "cocktails.png",
-      "gitUrl":"https://github.com/shwethaj1104/cocktails",
-      "demoUrl":"https://cocktails-sigma.vercel.app/"
-    },
-    {
-      "title": "Reviews",
-      "description": "Check out our trusted customer reviews",
-      "imgUrl": "reviews-new.PNG",
-      "gitUrl":"https://github.com/shwethaj1104/reviews-slider",
-      "demoUrl":"https://reviews-slider-opal.vercel.app/"
-    }
-
-  ],
-  "secondTab" : [
-    {
-      "title": "Reviews Application",
-      "description": "Read Reviews provided by customers",
-      "imgUrl": "reviews.png",
-      "gitUrl":"https://github.com/shwethaj1104/reviews",
-      "demoUrl":"https://reviews-ashy.vercel.app/"
-    },
-    {
-      "title": "Birthday reminder",
-      "description": "Don't forget birthday's of your loved one's",
-      "imgUrl": "birthday-new.PNG",
-      "gitUrl":"https://github.com/shwethaj1104/birthday-reminder",
-    "demoUrl":"https://birthday-reminder-five.vercel.app/"
-  },
-    {
+        "gitUrl": "https://github.com/shwethaj1104/react-admin-dashboard",
+        "demoUrl": "https://react-admin-omega-blush.vercel.app/"
+      },
+      {
+        "title": "Side Navigation bar",
+        "description": "Navigation bar based on the view of screen",
+        "imgUrl": "stripe-submenu.png",
+        "gitUrl": "https://github.com/shwethaj1104/sub-menu",
+        "demoUrl": "https://sub-menu.vercel.app/"
+      },
+      {
+        "title": "Shopping Cart",
+        "description": "Check items you have added to your shopping cart",
+        "imgUrl": "shopping_cart.png",
+        "gitUrl": "https://github.com/shwethaj1104/shopping-cart",
+        "demoUrl": "https://shopping-cart-ruby-delta.vercel.app/"
+      },
+      {
+        "title": "Coctails View Application",
+        "description": "View details of all available cocktails",
+        "imgUrl": "cocktails.png",
+        "gitUrl": "https://github.com/shwethaj1104/cocktails",
+        "demoUrl": "https://cocktails-sigma.vercel.app/"
+      },
+      {
+        "title": "Reviews",
+        "description": "Check out our trusted customer reviews",
+        "imgUrl": "reviews-new.PNG",
+        "gitUrl": "https://github.com/shwethaj1104/reviews-slider",
+        "demoUrl": "https://reviews-slider-opal.vercel.app/"
+      }
+    ],
+    "secondTab": [
+      {
+        "title": "Reviews Application",
+        "description": "Read Reviews provided by customers",
+        "imgUrl": "reviews.png",
+        "gitUrl": "https://github.com/shwethaj1104/reviews",
+        "demoUrl": "https://reviews-ashy.vercel.app/"
+      },
+      {
+        "title": "Birthday reminder",
+        "description": "Don't forget birthday's of your loved one's",
+        "imgUrl": "birthday-new.PNG",
+        "gitUrl": "https://github.com/shwethaj1104/birthday-reminder",
+        "demoUrl": "https://birthday-reminder-five.vercel.app/"
+      },
+      {
         "title": "Experiance Card",
         "description": "Check out our trusted customer reviews",
         "imgUrl": "experience-new.PNG",
-        "gitUrl":"https://github.com/shwethaj1104/my-experience",
-      "demoUrl":"https://my-experience.vercel.app/"
-    },
-    {
-      "title": "Genearte Random Text",
-      "description": "Lorem ipsum",
-      "imgUrl": "generate-text.png",
-      "gitUrl":"https://github.com/shwethaj1104/generate-text",
-      "demoUrl":"https://generate-text.vercel.app/"
-    },
-    
-    {
-      "title": "Color Generator",
-      "description": "Generate a color of your wish",
-      "imgUrl": "color_generator.png",
-      "gitUrl":"https://github.com/shwethaj1104/color-generator",
-      "demoUrl":"https://color-generator-amber.vercel.app/"
-    },
-    {
+        "gitUrl": "https://github.com/shwethaj1104/my-experience",
+        "demoUrl": "https://my-experience.vercel.app/"
+      },
+      {
+        "title": "Genearte Random Text",
+        "description": "Lorem ipsum",
+        "imgUrl": "generate-text.png",
+        "gitUrl": "https://github.com/shwethaj1104/generate-text",
+        "demoUrl": "https://generate-text.vercel.app/"
+      },
+      {
+        "title": "Color Generator",
+        "description": "Generate a color of your wish",
+        "imgUrl": "color_generator.png",
+        "gitUrl": "https://github.com/shwethaj1104/color-generator",
+        "demoUrl": "https://color-generator-amber.vercel.app/"
+      },
+      {
         "title": "Shopping cart",
         "description": "Add items to your shopping cart",
         "imgUrl": "grocery_bucket.png",
-        "gitUrl":"https://github.com/shwethaj1104/grocery-bucket",
-      "demoUrl":"https://grocery-bucket.vercel.app/"
-    }
-  ], 
-  "thirdTab" : [
-    {
-      "title": "Q & A Accordian",
-      "description": "Know better about Login setup",
-      "imgUrl": "QnA_accordian.png",
-      "gitUrl":"https://github.com/shwethaj1104/accordian",
-      "demoUrl":"https://accordian-psi.vercel.app/"
-    },
-    {
-      "title": "Menu Card",
-      "description": "Check out varity menu's with us",
-      "imgUrl": "Menu.png",
-      "gitUrl":"https://github.com/shwethaj1104/menu",
-      "demoUrl":"https://menu-rouge.vercel.app/"
-    },
-    {
-      "title": "Trip Guider",
-      "description": "Plan your vacation on soul soothing trips",
-      "imgUrl": "tours.PNG",
-      "gitUrl":"https://github.com/shwethaj1104/tours",
-      "demoUrl":"https://tours-swart.vercel.app/"
-    },
-    {
-      "title": "Navigation",
-      "description": "Simple Navigation bar",
-      "imgUrl": "nav-bar.png",
-      "gitUrl":"https://github.com/shwethaj1104/navigation-bar",
-      "demoUrl":"https://navigation-bar-zeta.vercel.app/"
-    },
-    {
+        "gitUrl": "https://github.com/shwethaj1104/grocery-bucket",
+        "demoUrl": "https://grocery-bucket.vercel.app/"
+      }
+    ],
+    "thirdTab": [
+      {
+        "title": "Q & A Accordian",
+        "description": "Know better about Login setup",
+        "imgUrl": "QnA_accordian.png",
+        "gitUrl": "https://github.com/shwethaj1104/accordian",
+        "demoUrl": "https://accordian-psi.vercel.app/"
+      },
+      {
+        "title": "Menu Card",
+        "description": "Check out varity menu's with us",
+        "imgUrl": "Menu.png",
+        "gitUrl": "https://github.com/shwethaj1104/menu",
+        "demoUrl": "https://menu-rouge.vercel.app/"
+      },
+      {
+        "title": "Trip Guider",
+        "description": "Plan your vacation on soul soothing trips",
+        "imgUrl": "tours.PNG",
+        "gitUrl": "https://github.com/shwethaj1104/tours",
+        "demoUrl": "https://tours-swart.vercel.app/"
+      },
+      {
+        "title": "Navigation",
+        "description": "Simple Navigation bar",
+        "imgUrl": "nav-bar.png",
+        "gitUrl": "https://github.com/shwethaj1104/navigation-bar",
+        "demoUrl": "https://navigation-bar-zeta.vercel.app/"
+      },
+      {
         "title": "SideBar Navigation",
         "description": "Simple side navigation bar",
         "imgUrl": "side-bar.png",
-        "gitUrl":"https://github.com/shwethaj1104/side-bar",
-      "demoUrl":"https://side-bar-rust.vercel.app/"
-    }  
-  ],
-  "skills" : [
-    {
+        "gitUrl": "https://github.com/shwethaj1104/side-bar",
+        "demoUrl": "https://side-bar-rust.vercel.app/"
+      }
+    ],
+    "skills": [
+      {
         "title": "ReactJS",
         "imgUrl": "meter2.svg",
         "description": "excellent user experience with theme switcher"
-    },
-    {
-      "title": "Angular",
-      "imgUrl": "meter3.svg",
-      "description": "Design & Development"
-    },
-    {
+      },
+      {
+        "title": "Angular",
+        "imgUrl": "meter3.svg",
+        "description": "Design & Development"
+      },
+      {
         "title": "Javacript",
         "imgUrl": "meter2.svg",
         "description": "Design & Development"
-    },
-    {
+      },
+      {
         "title": "HTML5",
         "imgUrl": "meter3.svg",
         "description": "Design & Development"
-    },
-    {
-      "title": "CSS",
-      "imgUrl": "meter3.svg",
-      "description": "Design & Development"
-    },
-    {
-      "title": "Accesibility and performance analysis",
-      "imgUrl": "meter3.svg",
-      "description": "Design & Development"
-    },
-    {
-      "title": "Security",
-      "imgUrl": "meter2.svg",
-      "description": "Design & Development"
-    },
-    {
+      },
+      {
+        "title": "CSS",
+        "imgUrl": "meter3.svg",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Accesibility and performance analysis",
+        "imgUrl": "meter3.svg",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Security",
+        "imgUrl": "meter2.svg",
+        "description": "Design & Development"
+      },
+      {
         "title": "Typecript",
         "imgUrl": "meter2.svg",
         "description": "Design & Development"
-    },
-    {
+      },
+      {
         "title": "Jira",
         "imgUrl": "meter3.svg",
         "description": "Design & Development"
-    },
-    {
+      },
+      {
         "title": "GitHub",
         "imgUrl": "meter3.svg",
         "description": "Design & Development"
-    }
-  ]
-  }}
-
-  
-
+      }
+    ]
+  }
+}
