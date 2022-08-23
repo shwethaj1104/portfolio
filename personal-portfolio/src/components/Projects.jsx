@@ -36,25 +36,25 @@ export const Projects = () => {
                   <Row>
                     {DATA.projects.firstTab.map((project, index) => {
                       return (
-                      <ProjectCard key={index} {...project} />
+                        <ProjectCard key={index} {...project} />
                       )
                     })}
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                <Row>
+                  <Row>
                     {DATA.projects.secondTab.map((project, index) => {
                       return (
-                      <ProjectCard key={index} {...project} />
+                        <ProjectCard key={index} {...project} />
                       )
                     })}
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="third">
-                <Row>
+                  <Row>
                     {DATA.projects.thirdTab.map((project, index) => {
                       return (
-                      <ProjectCard key={index} {...project} />
+                        <ProjectCard key={index} {...project} />
                       )
                     })}
                   </Row>
