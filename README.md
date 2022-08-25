@@ -16,7 +16,7 @@ Skills Page:
 
 Projects Page:
 
-![image](https://user-images.githubusercontent.com/107784718/180937875-7b3c1a33-59db-42cb-b801-84d840c9cc1e.png)
+![image](https://user-images.githubusercontent.com/107784718/186601754-8812a0f1-734a-415e-a828-427885c0124a.png)
 
 Contact Page:
 
