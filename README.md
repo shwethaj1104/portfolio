@@ -4,7 +4,7 @@ Personal Portfolio built on React
 
 Technology used: react-multi-carousel, react-maichimp-subscribe, Animate.css
 
-Here is the URL to portfolio :  https://personal-portfolio-umber.vercel.app
+Here is the URL to portfolio :  https://portfolio-shwetha.vercel.app/
 
 Landing page : 
 
