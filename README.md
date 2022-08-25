@@ -12,7 +12,7 @@ Landing page :
 
 Skills Page:
 
-![image](https://user-images.githubusercontent.com/107784718/180937500-70a1e11a-e134-40e3-a6f3-f91a6a9edb95.png)
+![image](https://user-images.githubusercontent.com/107784718/186601569-6f081dcd-ca78-4946-8494-3edd1586f4c6.png)
 
 Projects Page:
 
