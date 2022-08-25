@@ -20,4 +20,4 @@ Projects Page:
 
 Contact Page:
 
-![image](https://user-images.githubusercontent.com/107784718/180937945-06716ef4-3108-47d3-b0d6-16be3db74e0a.png)
+![image](https://user-images.githubusercontent.com/107784718/186601901-c3c6a678-40b7-4cf6-bd87-8ce7e0a44bcd.png)
