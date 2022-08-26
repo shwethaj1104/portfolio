@@ -2,7 +2,7 @@
 
 Personal Portfolio built on React.js
 
-Technology used: react-multi-carousel, emailjs-com, Animate.css
+Technology used : react-multi-carousel, emailjs-com, Animate.css
 
 Here is the URL to portfolio :  https://portfolio-shwetha.vercel.app/
 
