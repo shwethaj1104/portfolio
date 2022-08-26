@@ -1,6 +1,6 @@
 # Portfolio | Shwetha
 
-Personal Portfolio built on React.js
+Portfolio built on React.js
 
 Technology used : react-multi-carousel, emailjs-com, animate.css
 
