@@ -10,7 +10,7 @@ Landing page :
 
 ![image](https://user-images.githubusercontent.com/107784718/186601393-f2bd5573-cdec-4193-a110-2e8818e8f713.png)
 
-Skills Page:
+Skills Page :
 
 ![image](https://user-images.githubusercontent.com/107784718/186601569-6f081dcd-ca78-4946-8494-3edd1586f4c6.png)
 
