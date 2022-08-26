@@ -18,6 +18,6 @@ Projects Page :
 
 ![image](https://user-images.githubusercontent.com/107784718/186601754-8812a0f1-734a-415e-a828-427885c0124a.png)
 
-Contact Page:
+Contact Page :
 
 ![image](https://user-images.githubusercontent.com/107784718/186601901-c3c6a678-40b7-4cf6-bd87-8ce7e0a44bcd.png)
