@@ -1,6 +1,4 @@
 import { Col } from "react-bootstrap"
-import projImg1 from '../assets/img/project-img1.png'
-
 
 export const ProjectCard = ({ title, description, imgUrl, gitUrl, demoUrl }) => {
   // let requiredImgUrl =  imgUrl.replace(/['"]+/g, '');
