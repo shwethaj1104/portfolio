@@ -5,21 +5,21 @@ import { Col, Container, Row } from "react-bootstrap";
 
 export const NewsLetter = ({ onValidated, status, message }) => {
 
-    useEffect(()=>{
-        if(status ==='success') clearFields()
-    },[status])
+    useEffect(() => {
+        if (status === 'success') clearFields()
+    }, [status])
 
-    const [email,setEmail] = useState('')
-    const handleSubmit = (e)=>{
+    const [email, setEmail] = useState('')
+    const handleSubmit = (e) => {
         e.preventDefault();
         email &&
-        email.indexOf("@") > -1 && 
-        onValidated({
-            EMAIL:email
-        })
+            email.indexOf("@") > -1 &&
+            onValidated({
+                EMAIL: email
+            })
     }
 
-    const clearFields=()=>{
+    const clearFields = () => {
         setEmail('')
     }
     return (
@@ -35,10 +35,10 @@ export const NewsLetter = ({ onValidated, status, message }) => {
                     <Col md={6} xl={7}>
                         <form onSubmit={handleSubmit}>
                             <div className="new-email-bx">
-                                <input type="email" value={email} onChange={(e)=>setEmail(e.target.value)} placeholder="Enter Email Address" />
+                                <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Enter Email Address" />
                                 <button type="submit">Submit</button>
-                                </div>
-                        </form> 
+                            </div>
+                        </form>
                     </Col>
                 </Row>
             </div>
