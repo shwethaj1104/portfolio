@@ -2,7 +2,7 @@ import { Col } from "react-bootstrap"
 import projImg1 from '../assets/img/project-img1.png'
 
 
-export const ProjectCard = ({ title, description, imgUrl,gitUrl,demoUrl }) => {
+export const ProjectCard = ({ title, description, imgUrl, gitUrl, demoUrl }) => {
   // let requiredImgUrl =  imgUrl.replace(/['"]+/g, '');
   return (
     <Col size={12} sm={6} md={4}>
@@ -15,7 +15,7 @@ export const ProjectCard = ({ title, description, imgUrl,gitUrl,demoUrl }) => {
       </div>
       <div className="project-btn">
         <a className='git' href={gitUrl} target={'_blank'}>
-        <button className="code">Git</button>
+          <button className="code">Git</button>
         </a>
         <a className='git' href={demoUrl} target={'_blank'}>
           <button className="demo">Live Demo</button>
