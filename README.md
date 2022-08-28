@@ -1,24 +1,23 @@
-# personal-portfolio
+# Portfolio | Shwetha
 
-Personal Portfolio built on React
+Portfolio built on React.js
 
-Technology used: react-multi-carousel, react-maichimp-subscribe, Animate.css
+Technology used : react-multi-carousel, emailjs-com, animate.css
 
-Project is deployed on verceL, here is the URL to the project :  https://personal-portfolio-umber.vercel.app
+Here is the URL to portfolio :  https://portfolio-shwetha.vercel.app/
 
 Landing page : 
 
-![image](https://user-images.githubusercontent.com/107784718/180937178-dd2b4969-2f3b-403c-bff8-33c8d74d3afa.png)
+![image](https://user-images.githubusercontent.com/107784718/186601393-f2bd5573-cdec-4193-a110-2e8818e8f713.png)
 
+Skills Page :
 
-Skills Page:
+![image](https://user-images.githubusercontent.com/107784718/186601569-6f081dcd-ca78-4946-8494-3edd1586f4c6.png)
 
-![image](https://user-images.githubusercontent.com/107784718/180937500-70a1e11a-e134-40e3-a6f3-f91a6a9edb95.png)
+Projects Page :
 
-Projects Page:
+![image](https://user-images.githubusercontent.com/107784718/186601754-8812a0f1-734a-415e-a828-427885c0124a.png)
 
-![image](https://user-images.githubusercontent.com/107784718/180937875-7b3c1a33-59db-42cb-b801-84d840c9cc1e.png)
+Contact Page :
 
-Contact Page:
-
-![image](https://user-images.githubusercontent.com/107784718/180937945-06716ef4-3108-47d3-b0d6-16be3db74e0a.png)
+![image](https://user-images.githubusercontent.com/107784718/186601901-c3c6a678-40b7-4cf6-bd87-8ce7e0a44bcd.png)
