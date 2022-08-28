@@ -2,7 +2,6 @@ import { Alert } from "bootstrap"
 import { useEffect, useState } from "react"
 import { Col, Container, Row } from "react-bootstrap";
 
-
 export const NewsLetter = ({ onValidated, status, message }) => {
 
     useEffect(() => {
@@ -22,6 +21,7 @@ export const NewsLetter = ({ onValidated, status, message }) => {
     const clearFields = () => {
         setEmail('')
     }
+    
     return (
         <Col lg={12}>
             <div className="newsletter-bx">
