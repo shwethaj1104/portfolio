@@ -1,7 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap"
 import { BsLinkedin, BsGithub } from 'react-icons/bs'
 
-
 export const Footer = () => {
   return (
     <footer className="footer">
