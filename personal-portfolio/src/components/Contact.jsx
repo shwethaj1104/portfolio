@@ -31,8 +31,8 @@ export const Contact = () => {
                 setStatus({ success: true, message: '' })
             }, 3000);
         }
-
     };
+
     const formInitialDetails = {
         firstName: '',
         lastName: '',
@@ -40,6 +40,7 @@ export const Contact = () => {
         phone: '',
         message: '',
     }
+    
     const [formDetails, setFormDetails] = useState(formInitialDetails);
     const [buttonText, setButtonText] = useState('Send');
     const [status, setStatus] = useState({})
