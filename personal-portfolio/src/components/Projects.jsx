@@ -15,7 +15,6 @@ export const Projects = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__bounce" : ""}>
                   <h2>Personal Projects</h2>
-                  {/* <p>List of personal projects</p> */}
                 </div>}</TrackVisibility>
             <Tab.Container id="projects-tabs" defaultActiveKey="first">
               <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills=tab">
