@@ -8,7 +8,7 @@ Here is the URL to portfolio :  https://portfolio-shwetha.vercel.app/
 
 Landing page : 
 
-![image](https://user-images.githubusercontent.com/107784718/186601393-f2bd5573-cdec-4193-a110-2e8818e8f713.png)
+![image](https://user-images.githubusercontent.com/107784718/187060115-abf27908-0d7e-4d07-9531-fd0c9ebaa0b3.png)
 
 Skills Page :
 
