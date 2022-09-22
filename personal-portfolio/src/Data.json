@@ -2,6 +2,13 @@
   "projects": {
     "firstTab": [
       {
+        "title": "Social medai application",
+        "description": "Connect to social life",
+        "imgUrl": "social-media.png",
+        "gitUrl": "https://github.com/shwethaj1104/social-media-app",
+        "demoUrl": "https://chat-application-woad.vercel.app/"
+      },
+      {
         "title": "Messaging Application",
         "description": "Connecting people via technology",
         "imgUrl": "messaging-app-new.png",
@@ -15,13 +22,7 @@
         "gitUrl": "https://github.com/shwethaj1104/react-admin-dashboard",
         "demoUrl": "https://react-admin-omega-blush.vercel.app/"
       },
-      {
-        "title": "Side Navigation bar",
-        "description": "Navigation bar based on the view of screen",
-        "imgUrl": "stripe-submenu.png",
-        "gitUrl": "https://github.com/shwethaj1104/sub-menu",
-        "demoUrl": "https://sub-menu.vercel.app/"
-      },
+     
       {
         "title": "Shopping Cart",
         "description": "Check items you have added to your shopping cart",
@@ -116,6 +117,13 @@
         "imgUrl": "nav-bar.png",
         "gitUrl": "https://github.com/shwethaj1104/navigation-bar",
         "demoUrl": "https://navigation-bar-zeta.vercel.app/"
+      },
+      {
+        "title": "Side Navigation bar",
+        "description": "Navigation bar based on the view of screen",
+        "imgUrl": "stripe-submenu.png",
+        "gitUrl": "https://github.com/shwethaj1104/sub-menu",
+        "demoUrl": "https://sub-menu.vercel.app/"
       },
       {
         "title": "SideBar Navigation",
