@@ -10,8 +10,6 @@ Landing page :
 
 ![image](https://user-images.githubusercontent.com/107784718/195970499-d8731b41-ee14-4a8e-8c2a-e3f2c78a24f3.png)
 
-
-
 Skills Page :
 
 ![image](https://user-images.githubusercontent.com/107784718/186601569-6f081dcd-ca78-4946-8494-3edd1586f4c6.png)
