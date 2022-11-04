@@ -128,7 +128,7 @@
       },
       {
         "title": "Activate account",
-        "description": "Activating account with popup modal for user registration",
+        "description": "Activating account with pop-up modal for user registration",
         "imgUrl": "activate_account.png",
         "gitUrl": "https://github.com/shwethaj1104/activate-account",
         "demoUrl": ""
