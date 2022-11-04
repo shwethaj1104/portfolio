@@ -112,12 +112,13 @@
         "demoUrl": "https://tours-swart.vercel.app/"
       },
       {
-        "title": "Navigation",
-        "description": "Simple Navigation bar",
-        "imgUrl": "nav-bar.png",
+        "title": "Launch Dashboard",
+        "description": "Launch Dashboard",
+        "imgUrl": "spacex.png",
         "gitUrl": "https://github.com/shwethaj1104/navigation-bar",
-        "demoUrl": "https://navigation-bar-zeta.vercel.app/"
+        "demoUrl": ""
       },
+      
       {
         "title": "Side Navigation bar",
         "description": "Navigation bar based on the view of screen",
@@ -126,11 +127,11 @@
         "demoUrl": "https://sub-menu.vercel.app/"
       },
       {
-        "title": "SideBar Navigation",
-        "description": "Simple side navigation bar",
-        "imgUrl": "side-bar.png",
-        "gitUrl": "https://github.com/shwethaj1104/side-bar",
-        "demoUrl": "https://side-bar-rust.vercel.app/"
+        "title": "Activate account",
+        "description": "Activating account with popup modal for user registration",
+        "imgUrl": "activate_account.png",
+        "gitUrl": "https://github.com/shwethaj1104/activate-account",
+        "demoUrl": ""
       }
     ],
     "skills": [
